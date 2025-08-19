@@ -23,4 +23,4 @@ It includes optional monthly contributions, a growth table, and a line chart vis
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/compound-interest-calculator.git
+git clone https://github.com/ivoian/compound-interest-calculator.git

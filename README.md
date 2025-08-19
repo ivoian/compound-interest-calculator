@@ -1,24 +1,26 @@
 # Compound Interest Calculator
 
-This project simulates the growth of an investment using **compound interest**, with optional monthly contributions.
-It is a simple but powerful financial tool to demonstrate how money grows over time.
+A simple **Python project** that simulates the growth of an investment using **compound interest**.  
+It includes optional monthly contributions, a growth table, and a line chart visualization.
+
+---
+
+## Badges
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Made with](https://img.shields.io/badge/Made%20with-Google%20Colab-orange?logo=googlecolab)
 
 ---
 
 ## Features
 - Calculates final balance with compound interest.
-- Allows optional monthly contributions.
-- Displays investment growth in a table.
-- Generates a **line chart** for better visualization.
+- Allows **monthly contributions**.
+- Shows investment growth in a table.
+- Generates a **chart** for better visualization.
 
 ---
 
-## Example Scenario
-- Initial Investment: $1,000  
-- Monthly Interest Rate: 1% (0.01)  
-- Time: 12 months  
-- Monthly Contribution: $100  
-
-Expected result: Final balance after 12 months ≈ **$2,373.63**
-
----
+## Installation
+Clone the repository:
+```bash
+git clone https://github.com/your-username/compound-interest-calculator.git
